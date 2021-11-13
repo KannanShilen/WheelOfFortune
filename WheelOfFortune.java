@@ -9,7 +9,7 @@
  * @author Amir Kamil
  */
 
-package eecs285.proj3.kshilen; // replace with your uniqname
+package eecs285.proj3.kshilen; 
 
 import java.util.Random;
 import javax.swing.JFrame;
