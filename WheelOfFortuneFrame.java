@@ -1,12 +1,5 @@
 /**
- * EECS 285 Project 3 - Wheel of Fortune main GUI.
- *
- * See https://eecs285.github.io/p3-wheel/ for the specification.
- *
- * Project UID 7a0233619c14f47d99d949048c3b9c3319411051
- *
- * @author Andrew M. Morgan
- * @author Amir Kamil
+ *Wheel of Fortune main GUI.
  */
 
 package eecs285.proj3.kshilen;
